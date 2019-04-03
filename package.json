@@ -8,24 +8,6 @@
       "android"
     ]
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/marcelinojung/cordova-multidex.git"
-  },
-  "keywords": [
-    "ecosystem:cordova",
-    "cordova-android"
-  ],
-  "engines": {
-    "cordovaDependencies": {
-      "<0.2.0": {
-        "cordova-android": ">=3.5.0 <7.0.0"
-      },
-      "0.2.0": {
-        "cordova-android": ">=3.5.0"
-      }
-    }
-  },
   "author": "",
   "license": "MIT",
   "bugs": {
